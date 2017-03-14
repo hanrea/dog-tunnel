@@ -61,7 +61,4 @@ usersetting下面有多个子命令(直接拼在上面主api后面)
 
 [MIT License](LICENSE)
 
-## Credits
-![Welcome donate with Alipay && 欢迎使用支付宝对该项目进行捐赠](https://raw.githubusercontent.com/vzex/dog-tunnel/udpVersion/dog-tunnel.png)
 
-author: vzex@163.com
